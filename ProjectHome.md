@@ -1,0 +1,1 @@
+This is a demo application used to show the how to show the video in splash screen. This is simple used the video view to create a content view of splash.
